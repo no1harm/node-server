@@ -138,3 +138,11 @@ xhr.withCredentials = true;
 2.后端设置：
 
 当服务器接受到 http 请求时，后端返回数据时在响应头中添加：`res.setHeader('Access-Control-Allow-Origin','*')`
+
+---
+
+参考：
+
+[课件](http://book.jirengu.com/fe/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/Javascript/%E8%B7%A8%E5%9F%9F.html)
+
+[前端实现跨域](https://segmentfault.com/a/1190000011145364)
